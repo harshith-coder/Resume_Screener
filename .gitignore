@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# Mac
+.DS_Store
+
+# Test / coverage
+.pytest_cache/
+coverage.xml
+
+# Logs
+*.log
+
+# SQLite DB (feedback)
+data/feedback.db
+
+# Streamlit config
+.streamlit/

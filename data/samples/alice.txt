@@ -1,0 +1,11 @@
+Alice Example
+
+Experience
+- NLP Engineer at ExampleAI (2021-2024): built text classifiers and information extraction pipelines using Python, PyTorch, and HuggingFace transformers.
+- Backend Developer at WebServ (2018-2021): REST APIs, Docker, and microservices.
+
+Skills
+Python, PyTorch, transformers, NLP, REST, Docker, pandas
+
+Education
+B.Sc. Computer Science

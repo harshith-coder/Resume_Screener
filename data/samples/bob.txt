@@ -1,0 +1,11 @@
+Bob Sample
+
+Experience
+- Software Engineer at DevCorp (2019-2024): backend services, Python, Flask, SQL.
+- Data Analyst at DataCo (2017-2019): ETL, pandas, visualization.
+
+Skills
+Python, Flask, SQL, pandas, Docker
+
+Education
+M.Sc. Data Science

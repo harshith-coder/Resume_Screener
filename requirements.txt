@@ -1,0 +1,10 @@
+streamlit
+sentence-transformers
+spacy
+pdfminer.six
+python-docx
+pytesseract
+scikit-learn
+pyresparser
+pandas
+plotly
